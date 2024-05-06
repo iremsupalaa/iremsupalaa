@@ -2,6 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Briem+Hand&size=32&duration=2500&pause=100&color=FF64DA&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Hi+!+I'm+%C4%B0remsu+Pala;iOS+Developer" alt="Typing SVG" /></a>
 </p>
 
+<img align="center" src="https://media.giphy.com/media/kCVIL0CLNWv2E/giphy.gif" width='400'/>
+
+
 <h1 align='center'> 🌐 Socials</h1>
 
 <p align="center">
