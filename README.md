@@ -15,9 +15,7 @@ technologies, with a growing interest in AI and IoT.
 ---
 
 ## About Me
-
-- 🎓 Fourth-year Computer Engineering student at Fırat University
-- 📱 Building native and cross-platform mobile applications with **SwiftUI**, **Flutter** and **React Native**
+- 📱 Building native and cross-platform mobile applications with **SwiftUI**,and **React Native**
 - 💼 Candidate Engineer at **Nu Teknoloji**, contributing to mobile applications integrated with IoT devices
 - 🤖 Exploring how **AI** and **IoT** can create smarter, more effective mobile experiences
 - 🎯 Focused on functional, user-centered products that solve real-world problems
@@ -50,9 +48,14 @@ Product Thinking    →  Functional and user-centered design
 
 ## GitHub Overview
 
+| 📱 Mobile Development | 🤖 AI & IoT | 🎨 Product Thinking |
+| :---: | :---: | :---: |
+| SwiftUI · Flutter · React Native | Smart and connected experiences | Functional, user-centered design |
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iremsupalaa&show_icons=true&theme=transparent&hide_border=true&title_color=F05138&icon_color=F05138&text_color=8B949E" alt="İremsu's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremsupalaa&layout=compact&theme=transparent&hide_border=true&title_color=F05138&text_color=8B949E" alt="İremsu's most used languages" />
+
+[**Explore My Repositories →**](https://github.com/iremsupalaa?tab=repositories)
+
 </div>
 
 ---
